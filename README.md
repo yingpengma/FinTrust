@@ -3,7 +3,7 @@
 <!--  If you find this repository help your research, please cite our following paper: Linyi Yang, Yingpeng Ma, Yue Zhang. Measuring Consistency in Text-based Financial Forecasting Models. -->
 
 ## Intro
-The repository for ACL-2023 paper ["Measuring Consistency in Text-based Financial Forecasting Models"](https://github.com/yingpengma/FinTrust/blob/main/Measuring%20Consistency%20in%20Text-based%20Financial%20Forecasting%20Models.pdf).
+The repository for ACL-2023 paper ["Measuring Consistency in Text-based Financial Forecasting Models"](https://arxiv.org/abs/2305.08524).
 We provide our code and dataset used for the paper. 
 
 ## Dataset
