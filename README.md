@@ -3,14 +3,12 @@
 ## Citation
 If you find this repository helps your research, please cite our following paper:
 ```bibtex
-@inproceedings{yang-etal-2023-measuring,
-    title = "Measuring Consistency in Text-based Financial Forecasting Models",
-    author = "Yang, Linyi and Ma, Yingpeng and Zhang, Yue",
-    booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
-    year = "2023",
-    publisher = "Association for Computational Linguistics",
-    pages = "13751--13765"
- }
+@article{yang2023measuring,
+  title={Measuring Consistency in Text-based Financial Forecasting Models},
+  author={Yang, Linyi and Ma, Yingpeng and Zhang, Yue},
+  journal={arXiv preprint arXiv:2305.08524},
+  year={2023}
+}
 ```
 
 ## Intro
