@@ -13,7 +13,7 @@ If you find this repository helps your research, please cite our following paper
 
 ## Intro
 The repository for ACL-2023 paper [Measuring Consistency in Text-based Financial Forecasting Models](https://aclanthology.org/2023.acl-long.769/).
-We provide our code used for the paper. 
+We provide our code and data used for the paper. 
 
 ## Dataset
 The raw dataset of the earnings call can be found from [Qin and Yang, ACL-19](https://github.com/GeminiLn/EarningsCall_Dataset).
