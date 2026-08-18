@@ -1,3 +1,5 @@
+
+
 # Measuring Consistency in Text-based Financial Forecasting Models
 
 ## Citation
@@ -22,8 +24,7 @@ In line with this approach, we obtained the testset and expanded the testset by 
 
 ## Code
 Also, we have provided the code we used to generate consistency test examples, to enable researchers to extend their own datasets into a form suitable for testing consistency.
+Each script loads `earnings_call_3days.npy` and writes the corresponding consistency test file.
 
 ## Contact
 If you have any questions or concerns, please feel free to email me at mayingpeng33 AT gmail DOT com  -- Thanks for reading.
-
-
